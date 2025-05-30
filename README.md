@@ -25,6 +25,21 @@ In this exercise, you will:
 3. Open a pull request
 4. Merge your pull request
 
+## Understanding the `main` branch
+
+This `main` branch serves as the starting template for the 'Introduction to GitHub' exercise. It contains all the necessary files and configurations to guide you through the learning process.
+
+Key components of this repository include:
+
+*   `.github/`: This directory contains GitHub Actions workflows and step-by-step documents that power the exercise.
+    *   `workflows/`: Defines the automated processes that check your progress through the exercise.
+    *   `steps/`: Contains markdown files that are used to populate the issues and pull requests with instructions.
+*   `LICENSE`: The MIT License file for this project.
+*   `README.md`: The file you are currently reading, which provides an overview of the exercise and how to use this repository.
+*   `.gitignore`: Specifies intentionally untracked files that Git should ignore.
+
+To begin the exercise, please proceed to the 'How to start this exercise' section below.
+
 ### How to start this exercise
 
 1. Right-click **Copy Exercise** and open the link in a new tab.
